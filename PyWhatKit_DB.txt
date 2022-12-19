@@ -1,0 +1,35 @@
+Date: 19/12/2022
+Time: 14:26
+Phone Number: +905395580401
+Message: bu mesaj python kullanılarak gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:29
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:32
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:34
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:36
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:43
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
+Date: 19/12/2022
+Time: 14:46
+Phone Number: +905395580401
+Message: Bu mesaj Pınar Mıhcıoğlu tarafından gönderilmiştir.
+--------------------
